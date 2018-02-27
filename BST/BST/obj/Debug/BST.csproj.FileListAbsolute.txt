@@ -1,0 +1,6 @@
+C:\Users\b900c\cpts_321\BST\BST\bin\Debug\BST.exe.config
+C:\Users\b900c\cpts_321\BST\BST\bin\Debug\BST.exe
+C:\Users\b900c\cpts_321\BST\BST\bin\Debug\BST.pdb
+C:\Users\b900c\cpts_321\BST\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
+C:\Users\b900c\cpts_321\BST\BST\obj\Debug\BST.exe
+C:\Users\b900c\cpts_321\BST\BST\obj\Debug\BST.pdb
